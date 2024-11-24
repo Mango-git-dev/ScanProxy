@@ -38,6 +38,7 @@ gvm install go1.20
 gvm use go1.20 --default
 ```
 
-- Usage : 
+- Usage :
+- git clone https://github.com/Mango-git-dev/ScanProxy.git
 - go build scan.go
 - zmap -p8080 -q | ./scan 8080  (thay 8080 thành port cần scan)
