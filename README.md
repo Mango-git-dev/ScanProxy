@@ -1,6 +1,6 @@
 - Proxy type HTTP
 
-- Cài đặt golang
+- Cài đặt
 
 ```
 - Ubuntu : 
